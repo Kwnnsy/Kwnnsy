@@ -12,14 +12,10 @@ Hello, my name is Berat. I am 19 years old
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/1005726735410667540" target="_blank"><img src="https://shields.io/badge/Kwnnsy-111111.svg?&style=for-the-badge&logo=discord&Color=white"></a>
-    <a href="https://github.com/Kwnnsy" target="_blank"><img src="https://shields.io/badge/Kwnnsy-111111.svg?&style=for-the-badge&logo=github&Color=white"></a>
-<div align="center">
     <a href="https://discord.gg/kate1976" target="_blank"><img src="https://shields.io/badge/Kate-111111.svg?&style=for-the-badge&logo=discord&Color=white"></a>
 <a href="https://discord.com/users/1005726735410667540" target="_blank"><img src="https://shields.io/badge/Kwnnsy-111111.svg?&style=for-the-badge&logo=discord&Color=white"></a>
     <a href="https://github.com/Kwnnsy" target="_blank"><img src="https://shields.io/badge/Kwnnsy-111111.svg?&style=for-the-badge&logo=github&Color=white"></a>
 </div>
-
 ## 💻 Technologies I Use
 
 <div align="center">    
