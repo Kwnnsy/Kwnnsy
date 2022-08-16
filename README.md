@@ -2,7 +2,7 @@
 Hello, my name is Berat. I am 19 years old
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=GİTHUB_ISMIN&color=dc143c"/>
+    <img src="https://komarev.com/ghpvc/?Kwnnsy=GİTHUB_ISMIN&color=dc143c"/>
 </div>
 
 <div align="center">
