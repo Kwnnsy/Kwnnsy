@@ -1,5 +1,5 @@
 ## 🎉 Hi, I am Kwnnsy
-Hello, my name is 19. I am xxx years old
+Hello, my name is Berat. I am 19 years old
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=GİTHUB_ISMIN&color=dc143c"/>
